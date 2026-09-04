@@ -14,7 +14,7 @@ dependencies:
   flutter_tts: ^4.2.0
   shared_preferences: ^2.5.3
   http: ^1.4.0
-  model_viewer_plus: ^1.10.0
+  model_viewer_plus: ^1.9.3
   android_intent_plus: ^6.0.0
 dev_dependencies:
   flutter_test:
